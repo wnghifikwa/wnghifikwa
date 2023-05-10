@@ -1,0 +1,28 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Montserrat', sans-serif;
+   
+    
+}
+
+.nav-item a{
+    color: white;
+    font-size: 18px;
+}
+.navbar-nav{
+    margin-right: 17px;
+}
+
+.nav-item a:hover{
+   background-color: silver;
+}
+
+.navbar-brand{
+    font-size: 28px;
+}
+
+#em{
+    background-color: #B9E2A7;
+    
+}
